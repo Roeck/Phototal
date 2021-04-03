@@ -5,6 +5,8 @@
 
 import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
+import React from "react"
+import bootstrap-sprockets
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
